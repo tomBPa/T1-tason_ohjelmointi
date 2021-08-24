@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ikälaskuri", "Ikälaskuri\Ikälaskuri.csproj", "{559E74FA-8CF2-43BB-A9FA-E4EB24384761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559E74FA-8CF2-43BB-A9FA-E4EB24384761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559E74FA-8CF2-43BB-A9FA-E4EB24384761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559E74FA-8CF2-43BB-A9FA-E4EB24384761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559E74FA-8CF2-43BB-A9FA-E4EB24384761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {131FCCC7-7931-43CC-9F02-C7283A0365B6}
+	EndGlobalSection
+EndGlobal
