@@ -1,0 +1,18 @@
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\net5.0-windows\Celcius to Fahrenheit.exe
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\net5.0-windows\Celcius to Fahrenheit.deps.json
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\net5.0-windows\Celcius to Fahrenheit.runtimeconfig.json
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\net5.0-windows\Celcius to Fahrenheit.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\net5.0-windows\Celcius to Fahrenheit.dll
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\net5.0-windows\ref\Celcius to Fahrenheit.dll
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\net5.0-windows\Celcius to Fahrenheit.pdb
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius to Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius_to_Fahrenheit.Form1.resources
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius to Fahrenheit.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius to Fahrenheit.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius to Fahrenheit.dll
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\ref\Celcius to Fahrenheit.dll
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius to Fahrenheit.pdb
+C:\Users\Omistaja\source\repos\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\net5.0-windows\Celcius to Fahrenheit.genruntimeconfig.cache
