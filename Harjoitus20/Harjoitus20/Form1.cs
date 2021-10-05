@@ -12,6 +12,7 @@ namespace Harjoitus20
 {
     public partial class OpiskelijarekisteriForm : Form
     {
+        OPISKELIJA opiskelija = new OPISKELIJA();
         public OpiskelijarekisteriForm()
         {
             InitializeComponent();
@@ -19,7 +20,7 @@ namespace Harjoitus20
 
         private void OpiskelijarekisteriForm_Load(object sender, EventArgs e)
         {
-            TietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+            TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
 
         private void TyhjennaBT_Click(object sender, EventArgs e)
@@ -47,7 +48,7 @@ namespace Harjoitus20
             }
             else
             {
-                Boolean lisaaAsiakas = OPISKELIJA.lisaaOpiskelija(enimi, snimi, puhelin, email, oNro);
+                Boolean lisaaAsiakas = opiskelija.lisaaOpiskelija(enimi, snimi, puhelin, email, oNro);
                 if(lisaaAsiakas)
                 {
                     MessageBox.Show("Uusi opiskelija lisätty onnistuneesti", "Opiskelija lisäys", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -57,7 +58,7 @@ namespace Harjoitus20
                     MessageBox.Show("Uutta opiskelijaa ei pystytty lisäämään", "Opiskelijan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-            TietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+            TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
 
 
@@ -77,7 +78,7 @@ namespace Harjoitus20
             }
             else
             {
-                Boolean lisaaAsiakas = OPISKELIJA.muokkaaOpiskelijaa(oid, enimi, snimi, puhelin, email, oNro);
+                Boolean lisaaAsiakas = opiskelija.muokkaaOpiskelijaa(oid, enimi, snimi, puhelin, email, oNro);
                 if (lisaaAsiakas)
                 {
                     MessageBox.Show("Opiskelija päivitetty onnistuneesti", "Opiskelijoiden päivitys", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -87,16 +88,16 @@ namespace Harjoitus20
                     MessageBox.Show("Opiskelijaa ei pystytty päivittämään", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-            TietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+            TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
 
 
         private void PoistaBT_Click(object sender, EventArgs e)
         {
             String ktunnus = IDTB.Text;
-            if (OPISKELIJA.poistaOpiskelija(ktunnus))
+            if (opiskelija.poistaOpiskelija(ktunnus))
             {
-                TietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+                TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
                 MessageBox.Show("Opiskelija poistettu onnistuneesti", "Opiskelijan poisto", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else

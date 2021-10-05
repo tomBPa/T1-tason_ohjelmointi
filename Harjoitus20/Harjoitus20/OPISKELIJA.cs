@@ -12,7 +12,7 @@ namespace Harjoitus20
     {
         Yhdista yhteys = new Yhdista();
 
-        public bool LisaaOpiskelija(String enimi, String snimi, String puh, String email, int onro)
+        public bool lisaaOpiskelija(String enimi, String snimi, String puh, String email, int onro)
         {
             MySqlCommand komento = new MySqlCommand();
             String lisayskysely = "INSERT INTO yhteystiedot " +

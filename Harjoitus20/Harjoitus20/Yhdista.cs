@@ -12,9 +12,9 @@ namespace Harjoitus20
     {
         public string yhteyslause()
         {
-            return "datasource=localhost; port=3306;username=root;password=;database=hotelli";
+            return "datasource=localhost;port=3306;username=root;password=;database=hotelli";
         }
-        private MySqlConnection yhteys = new MySqlConnection("datasource=localhost; port3306,username=root;password=;database=opiskelijat");
+        private MySqlConnection yhteys = new MySqlConnection("datasource=localhost;port=3306;username=root;password=;database=opiskelijat");
 
         public MySqlConnection otaYhteys()
         {
