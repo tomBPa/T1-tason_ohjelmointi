@@ -1,0 +1,5 @@
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.OpiskelijarekisteriForm.resources
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.Properties.Resources.resources
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.csproj.CoreCompileInputs.cache

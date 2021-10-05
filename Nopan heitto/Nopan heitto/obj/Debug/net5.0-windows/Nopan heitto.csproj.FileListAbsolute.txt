@@ -1,0 +1,19 @@
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\bin\Debug\net5.0-windows\Nopan heitto.exe
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\bin\Debug\net5.0-windows\Nopan heitto.deps.json
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\bin\Debug\net5.0-windows\Nopan heitto.runtimeconfig.json
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\bin\Debug\net5.0-windows\Nopan heitto.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\bin\Debug\net5.0-windows\Nopan heitto.dll
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\bin\Debug\net5.0-windows\ref\Nopan heitto.dll
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\bin\Debug\net5.0-windows\Nopan heitto.pdb
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan heitto.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan_heitto.Form1.resources
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan_heitto.Properties.Resources.resources
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan heitto.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan heitto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan heitto.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan heitto.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan heitto.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan heitto.dll
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\ref\Nopan heitto.dll
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan heitto.pdb
+C:\Users\Omistaja\source\repos\T1-tason_ohjelmointi\Nopan heitto\Nopan heitto\obj\Debug\net5.0-windows\Nopan heitto.genruntimeconfig.cache
